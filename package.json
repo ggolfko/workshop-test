@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ggolfko/workshop-test/issues"
   },
-  "homepage": "https://github.com/ggolfko/workshop-test#readme"
+  "homepage": "https://github.com/ggolfko/workshop-test#readme",
+  "dependencies": {
+    "fancyqr": "0.0.1",
+    "qrcode": "^1.2.0"
+  }
 }
