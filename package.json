@@ -20,6 +20,7 @@
     "fancyqr": "0.0.1",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
+    "jimp": "^0.2.28",
     "qrcode": "^1.2.0",
     "querystring": "^0.2.0",
     "urlencode": "^1.1.0"
