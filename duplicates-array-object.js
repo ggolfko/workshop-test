@@ -63,7 +63,7 @@ const data = [{
     "photo_item_delete": [],
     "brochure_item_delete": []
 }]
-
-let x = Array.from(new Set(data[0].brochure_item.map(JSON.stringify))).map(JSON.parse);
+let d =[]
+let x = Array.from(new Set(d.map(JSON.stringify))).map(JSON.parse);
 
 console.log(x)
